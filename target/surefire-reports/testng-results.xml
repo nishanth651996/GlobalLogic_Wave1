@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-13T15:31:58 IST" name="demo.LoginApp_Test" finished-at="2022-04-13T15:32:14 IST" duration-ms="16283">
+    <groups>
+    </groups>
+    <test started-at="2022-04-13T15:31:58 IST" name="Command line test" finished-at="2022-04-13T15:32:14 IST" duration-ms="16283">
+      <class name="demo.LoginApp_Test">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:demo.LoginApp_Test@31304f14]" started-at="2022-04-13T15:31:58 IST" name="beforeClass" finished-at="2022-04-13T15:32:00 IST" duration-ms="2575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="testLogin()[pri:0, instance:demo.LoginApp_Test@31304f14]" started-at="2022-04-13T15:32:00 IST" name="testLogin" finished-at="2022-04-13T15:32:14 IST" duration-ms="13617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:demo.LoginApp_Test@31304f14]" started-at="2022-04-13T15:32:14 IST" name="afterClass" finished-at="2022-04-13T15:32:14 IST" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- demo.LoginApp_Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- demo.LoginApp_Test -->
+</testng-results>
